@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 //reference models
-using WebApplication1.Models;
+using MovieWebAPI.Models;
 
-namespace WebApplication1.Controllers
+namespace MovieWebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

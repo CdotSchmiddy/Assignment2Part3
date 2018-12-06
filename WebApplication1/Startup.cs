@@ -12,10 +12,10 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 //reference models
-using WebApplication1.Models;
+using MovieWebAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebApplication1
+namespace MovieWebAPI
 {
     public class Startup
     {
